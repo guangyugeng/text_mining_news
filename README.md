@@ -1,2 +1,3 @@
-Microsoft Cognitive Services 
-Text Analytics ———— Sentiment
+Microsoft Cognitive Services <br />
+Text Analytics ———— Sentiment<br />
+
